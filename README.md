@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **steepbsm@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/steepsalvadorman/steepsalvadorman.github.io/blob/main/steepsalvadorman.pdf](https://github.com/steepsalvadorman/steepsalvadorman.github.io/blob/main/steepsalvadorman.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
