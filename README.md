@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Steep Salvador</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 - 🔭 I’m currently working on **LambdaVoyage**
 
 - 🌱 I’m currently learning **Angular**
