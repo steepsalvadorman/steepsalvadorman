@@ -45,9 +45,11 @@
 ### Analytics ⚙
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steepsalvadorman&theme=default" alt="GitHub Stats" style="float: left;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steepsalvadorman&theme=default" alt="GitHub Profile Details" style="float: right;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steepsalvadorman&theme=aura" alt="GitHub Profile Details" style="float: left;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steepsalvadorman&theme=aura" alt="GitHub Stats" style="float: left;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steepsalvadorman&theme=aura" alt="Most Used Languages" style="float: left;" />
 </div>
+
 
 
 
