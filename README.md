@@ -44,10 +44,11 @@
 
 ### Analytics ⚙
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steepsalvadorman&theme=default" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steepsalvadorman&theme=default" alt="GitHub Profile Details" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steepsalvadorman&theme=default" alt="GitHub Stats" style="float: left;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steepsalvadorman&theme=default" alt="GitHub Profile Details" style="float: right;" />
+</div>
+
 
 
 
