@@ -26,9 +26,9 @@
 
 ###
 
-### What I am listening to 🔊
+### What I am doing 🔊
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31raoowjxsk36kvzlnl6gugfqtsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31raoowjxsk36kvzlnl6gugfqtsu&redirect=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:851837435767291924)](https://discord.com/users/:id)
 
 ### Let's connect? 🤝
 
