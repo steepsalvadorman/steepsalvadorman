@@ -28,7 +28,7 @@
 
 ### What I am doing 🔊
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<851837435767291924>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=851837435767291924)
 
 ### Let's connect? 🤝
 
