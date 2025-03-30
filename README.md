@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>&nbsp;
 
-### I'm a 🇵🇪 Software Developer living in Lima and working at R&B.
+### I'm a 🇵🇪 Software Developer living in Lima and working at Conpañia Minera Condestable S.A.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
