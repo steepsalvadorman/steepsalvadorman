@@ -27,7 +27,7 @@
 ###
 
 ### What I am doing 🔊
-![My Discord](https://discord-readme-badge.vercel.app/api?id=851837435767291924)
+[![Discord Presence](https://lanyard.cnrad.dev/api/851837435767291924)](https://discord.com/users/851837435767291924)
 
 ### Let's connect? 🤝
 
