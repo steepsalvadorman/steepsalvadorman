@@ -27,7 +27,7 @@
 ###
 
 ### What I am doing 🔊
-[![Discord Presence](https://lanyard.cnrad.dev/api/851837435767291924)](https://discord.com/users/851837435767291924)
+<a href="https://discord.com/users/851837435767291924"><img src="https://lanyard.cnrad.dev/api/851837435767291924" /></a>
 
 ### Let's connect? 🤝
 
