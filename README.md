@@ -99,8 +99,8 @@ Systems Engineer from the University of Lima, focused on backend development, mi
 
 <div align="center">
 
-<img src="generated/overview.svg" width="48%" />
-<img src="generated/languages.svg" width="48%" />
+<img src="https://TU_INSTANCIA.vercel.app/api?username=steepsalvadorman&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://TU_INSTANCIA.vercel.app/api/top-langs/?username=steepsalvadorman&layout=compact&theme=aura&hide_border=true&langs_count=10" width="48%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=steepsalvadorman&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
