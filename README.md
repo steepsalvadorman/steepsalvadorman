@@ -55,6 +55,7 @@ Full Stack engineer at **Marcobre S.A.C.** (mining & industrial sector), buildin
 **Environment**
 
 [![Skills](https://skillicons.dev/icons?i=arch,vscode)](https://skillicons.dev)
+![Hyprland](https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logoColor=white)
 
 ---
 
