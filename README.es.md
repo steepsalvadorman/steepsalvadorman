@@ -63,10 +63,9 @@ Ingeniero Full Stack en **Marcobre S.A.C.** (sector minero e industrial), constr
 
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steepsalvadorman&theme=aura)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steepsalvadorman&theme=aura" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steepsalvadorman&theme=aura" width="48%" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=steepsalvadorman&theme=aura-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
