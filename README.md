@@ -11,7 +11,7 @@ I build reliable software for industrial operations, laboratory workflows, and r
 [English](https://github.com/steepsalvadorman/steepsalvadorman/blob/main/README.md) ·
 [Español](https://github.com/steepsalvadorman/steepsalvadorman/blob/main/README.es.md)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=astro&logoColor=white)](https://portfolio-five-flame-27.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=astro&logoColor=white)]([https://portfolio-five-flame-27.vercel.app/](https://www.steepsalvador.dev/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steepsalvador/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevesalvadorman@gmail.com)
 
