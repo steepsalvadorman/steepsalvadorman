@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 200" width="410" height="200" role="img" aria-label="DaiBot — Bot de streaming multi-tenant: OAuth 2.0 PKCE, webhooks EventSub, WebSockets, TTS, overlay para OBS y 43 pruebas unitarias. [Rust · Axum · PostgreSQL · Docker]">
+<title>DaiBot — Bot de streaming multi-tenant: OAuth 2.0 PKCE, webhooks EventSub, WebSockets, TTS, overlay para OBS y 43 pruebas unitarias. [Rust · Axum · PostgreSQL · Docker]</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.s{animation:s 4s linear infinite;animation-delay:-0.55s}
+@keyframes s{0%{transform:translateX(-120px)}60%,100%{transform:translateX(410px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0221"/><stop offset="1" stop-color="#07060f"/></linearGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/></linearGradient>
+<radialGradient id="h" cx="1" cy="0" r="1"><stop offset="0" stop-color="#00f0ff" stop-opacity=".22"/><stop offset=".7" stop-color="#00f0ff" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#00f0ff" stroke-opacity=".06"/></pattern>
+<pattern id="l" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".22"/></pattern>
+<filter id="gl" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="f"><polygon points="1,1 389,1 409,21 409,199 21,199 1,179"/></clipPath>
+</defs>
+<g clip-path="url(#f)">
+<rect width="410" height="200" fill="url(#bg)"/>
+<rect width="410" height="200" fill="url(#g)"/>
+<rect width="410" height="200" fill="url(#h)"/>
+<rect x="24" y="22" width="56" height="18" fill="#00f0ff"/>
+<text x="31" y="35" font-size="11" font-weight="800" fill="#07060f">PRJ_01</text>
+<text x="376" y="35" text-anchor="end" font-size="10.5" letter-spacing="1.5" fill="#00f0ff">VER REPO ↗</text>
+<text x="24" y="70" font-size="22" font-weight="800" fill="#fff" filter="url(#gl)">DaiBot</text>
+<rect x="24" y="78" width="46" height="2" fill="#00f0ff"/>
+<text x="24" y="98" font-size="11.5" fill="#e6f1ff" fill-opacity=".86">Bot de streaming multi-tenant: OAuth 2.0 PKCE,</text><text x="24" y="115" font-size="11.5" fill="#e6f1ff" fill-opacity=".86">webhooks EventSub, WebSockets, TTS, overlay para</text><text x="24" y="132" font-size="11.5" fill="#e6f1ff" fill-opacity=".86">OBS y 43 pruebas unitarias.</text>
+<rect x="24" y="158" width="44" height="20" fill="#00f0ff" fill-opacity=".12" stroke="#00f0ff" stroke-opacity=".8"/><text x="33" y="172" font-size="10.5" font-weight="700" textLength="26" lengthAdjust="spacingAndGlyphs" fill="#00f0ff">Rust</text><rect x="76" y="158" width="44" height="20" fill="#00f0ff" fill-opacity=".12" stroke="#00f0ff" stroke-opacity=".8"/><text x="85" y="172" font-size="10.5" font-weight="700" textLength="26" lengthAdjust="spacingAndGlyphs" fill="#00f0ff">Axum</text><rect x="128" y="158" width="82" height="20" fill="#00f0ff" fill-opacity=".12" stroke="#00f0ff" stroke-opacity=".8"/><text x="137" y="172" font-size="10.5" font-weight="700" textLength="64" lengthAdjust="spacingAndGlyphs" fill="#00f0ff">PostgreSQL</text><rect x="218" y="158" width="56" height="20" fill="#00f0ff" fill-opacity=".12" stroke="#00f0ff" stroke-opacity=".8"/><text x="227" y="172" font-size="10.5" font-weight="700" textLength="38" lengthAdjust="spacingAndGlyphs" fill="#00f0ff">Docker</text>
+<rect width="410" height="200" fill="url(#l)"/>
+<rect class="s" y="1" width="120" height="2" fill="url(#sw)"/>
+</g>
+<polygon points="1,1 389,1 409,21 409,199 21,199 1,179" fill="none" stroke="#00f0ff" stroke-opacity=".75" stroke-width="1.5"/>
+<path d="M409 166V199H376" fill="none" stroke="#00f0ff" stroke-width="3"/>
+</svg>
