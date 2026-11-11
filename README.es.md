@@ -18,7 +18,7 @@
 
 <img src="./assets/es/section-01-profile.svg" width="100%" alt="Perfil profesional">
 
-Ingeniero Full Stack en **Marcobre S.A.C.**, desarrollando software para entornos mineros e industriales. Mi trabajo abarca **microservicios con Spring Boot**, aplicaciones en **Angular**, despliegues sobre **Azure** y sistemas que sostienen operaciones trazables del día a día.
+QA Automation Engineer y programador en **HR Ingenieros Asociados**, consultora minera, donde construyo pruebas automatizadas con Playwright, Java y TypeScript y lidero la planificación y la arquitectura del equipo. Antes, en **Marcobre S.A.C.** y **Compañía Minera Condestable**, desarrollé software para entornos mineros e industriales. Mi trabajo abarca **microservicios con Spring Boot**, aplicaciones en **Angular**, despliegues sobre **Azure** y sistemas que sostienen operaciones trazables del día a día.
 
 Combino desarrollo de aplicaciones empresariales con experiencia práctica en **SampleManager LIMS**, captura de datos industriales, programación de sistemas y machine learning aplicado. Me interesan especialmente los problemas donde el software interactúa con procesos reales, dispositivos o datos científicos.
 

@@ -18,7 +18,7 @@
 
 <img src="./assets/en/section-01-profile.svg" width="100%" alt="Professional profile">
 
-Full Stack Engineer at **Marcobre S.A.C.**, developing software for mining and industrial environments. My work spans **Spring Boot microservices**, **Angular applications**, **Azure deployments**, and the systems that support traceable, day-to-day operations.
+QA Automation Engineer and Developer at **HR Ingenieros Asociados**, a mining consultancy, where I build automated tests with Playwright, Java, and TypeScript and lead the team's planning and architecture. Previously at **Marcobre S.A.C.** and **Compañía Minera Condestable**, developing software for mining and industrial environments. My work spans **Spring Boot microservices**, **Angular applications**, **Azure deployments**, and the systems that support traceable, day-to-day operations.
 
 I combine enterprise application development with hands-on experience in **SampleManager LIMS**, industrial data capture, systems programming, and applied machine learning. I am especially interested in problems where software must interact with real processes, devices, or scientific data.
 
